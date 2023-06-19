@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @iicaruss
+- 👀 I’m interested in data science, AI and nature.
+- 🌱 I’m currently learning C++.
+- 📫 How to reach me? : iilkerozturkk09@gmail.com
